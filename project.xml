@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ImGuiFl" package="imguifl" version="1.0.0" company="tienery" />
+	<app main="Main" path="Export" file="ImGuiFlTest" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+
+	<assets path="Assets/fonts" rename="fonts" />
+	
+</project>
